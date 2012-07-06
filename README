@@ -1,0 +1,11 @@
+`test_harness.h` - KISS mocking for C
+=====================================
+
+test_harness.h allows for easy mocking in C unit tests. 
+It is a very low tech approach to unit test boilerplating 
+automation for the C language.
+
+	K - eep
+	I - t
+	S - imple and
+	S - eparated.
